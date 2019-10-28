@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0",
+    "name": "Important",
+    "priority": "High",
+    "interval": 5
+  },
+  {
+    "id": "1",
+    "name": "Not Important",
+    "priority": "Low",
+    "interval": 3
+  },
+  {
+    "id": "2",
+    "name": "Normal",
+    "priority": "Normal",
+    "interval": 7
+  }
+]
+
+
